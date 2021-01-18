@@ -1,1 +1,1 @@
-# Javascript-form
+A simple form written in native javascript.
